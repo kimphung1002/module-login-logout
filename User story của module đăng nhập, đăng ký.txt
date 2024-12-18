@@ -1,0 +1,35 @@
+User story của module đăng nhập, đăng ký, phân quyền 
+1. Đăng ký tài khoản
+User Story:
+•	Là một người dùng mới, tôi muốn đăng ký tài khoản để có thể mua sắm và quản lý đơn hàng trên website.
+Mô tả :
+•	Khi tôi truy cập vào trang đăng ký, tôi sẽ nhập các thông tin cần thiết bao gồm họ và tên, tên đăng nhập, mật khẩu, và xác nhận mật khẩu.
+•	Tôi phải chọn đồng ý với các điều khoản sử dụng của trang web trước khi hoàn tất đăng ký.
+•	Sau khi nhấn vào nút Đăng ký, hệ thống sẽ kiểm tra xem tên đăng nhập của tôi đã được sử dụng chưa.
+o	Nếu tên đăng nhập đã tồn tại, hệ thống sẽ thông báo rằng  này đã được đăng ký và yêu cầu tôi sử dụng một tên đăng nhập khác.
+o	Nếu tên đăng nhập hợp lệ, tài khoản của tôi sẽ được tạo và tôi có thể đăng nhập vào hệ thống.
+•	Sau khi đăng ký xong tôi có thể sử dụng thông tin đã đăng ký để đăng nhập và sử dụng website.
+2. Đăng nhập
+User Story:
+•	Là một người dùng đã có tài khoản, tôi muốn đăng nhập vào tài khoản của mình để truy cập các tính năng cá nhân hóa như  xem và sửa thông tin cá nhân.
+Mô tả :
+•	Khi truy cập vào trang đăng nhập, tôi sẽ nhập tên đăng nhập và mật khẩu mà tôi đã sử dụng khi đăng ký.
+•	Sau khi nhập thông tin, tôi nhấn vào nút Đăng nhập.
+•	Nếu thông tin đăng nhập chính xác, hệ thống sẽ kiểm tra xem bạn là customer hay admin để cung cấp chức năng mà actor đó được sử dụng.
+•	Nếu tôi nhập sai thông tin đăng nhập, hệ thống sẽ hiển thị thông báo lỗi và yêu cầu tôi thử lại.
+3. Các chức năng sau đăng nhập
+User Story:
+•	Là một người dùng, tôi muốn hệ thống để có thể sử dụng các chức năng .
+Mô tả :
+Sau khi đăng nhập thành công, tôi có thể sử dụng các chức năng tương ứng với quyền của mình.
+•	Customer: chỉ có thể xem và sửa thông tin cá nhân
+•	Quản trị viên: có thể xem thông tin của tất cả người dùng, xóa người dùng và phân quyền.
+4. Đăng xuất
+User Story:
+Là một người dùng, tôi muốn hệ thống có chức năng đăng xuất để đảm bảo tính bảo mật khi tôi không sử dụng.
+Mô Tả :
+	Khi người dùng nhấn vào nút đăng xuất, người dùng sẽ được chuyển về trang 	đăng nhập và thông báo bạn đã đăng xuất thành công.
+
+5. Kết quả mong muốn:
+•	Người dùng mới có thể dễ dàng đăng ký và tạo tài khoản.
+•	Người dùng hiện tại có thể đăng nhập và truy cập vào các tính năng cá nhân hóa của họ.
