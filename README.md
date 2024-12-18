@@ -1,4 +1,4 @@
-# module-login-logout phân quyền đối với admin và customer
+# module-login-logout phân quyền đối với admin và user
 Thành viên: Nhóm 11
 - Hoàng Thị Kim Phụng
 - Lê Thị Mỹ Linh
