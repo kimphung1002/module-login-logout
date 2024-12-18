@@ -3,7 +3,7 @@ User story của module đăng nhập, đăng ký, phân quyền
 User Story:
 •	Là một người dùng mới, tôi muốn đăng ký tài khoản để có thể mua sắm và quản lý đơn hàng trên website.
 Mô tả :
-•	Khi tôi truy cập vào trang đăng ký, tôi sẽ nhập các thông tin cần thiết bao gồm họ và tên, tên đăng nhập, mật khẩu, và xác nhận mật khẩu.
+•	Khi tôi truy cập vào trang đăng ký, tôi sẽ nhập các thông tin cần thiết bao gồm tên đăng nhập, email và mật khẩu
 •	Tôi phải chọn đồng ý với các điều khoản sử dụng của trang web trước khi hoàn tất đăng ký.
 •	Sau khi nhấn vào nút Đăng ký, hệ thống sẽ kiểm tra xem tên đăng nhập của tôi đã được sử dụng chưa.
 o	Nếu tên đăng nhập đã tồn tại, hệ thống sẽ thông báo rằng  này đã được đăng ký và yêu cầu tôi sử dụng một tên đăng nhập khác.
@@ -13,7 +13,7 @@ o	Nếu tên đăng nhập hợp lệ, tài khoản của tôi sẽ được t�
 User Story:
 •	Là một người dùng đã có tài khoản, tôi muốn đăng nhập vào tài khoản của mình để truy cập các tính năng cá nhân hóa như  xem và sửa thông tin cá nhân.
 Mô tả :
-•	Khi truy cập vào trang đăng nhập, tôi sẽ nhập tên đăng nhập và mật khẩu mà tôi đã sử dụng khi đăng ký.
+•	Khi truy cập vào trang đăng nhập, tôi sẽ nhập email đăng nhập và mật khẩu mà tôi đã sử dụng khi đăng ký.
 •	Sau khi nhập thông tin, tôi nhấn vào nút Đăng nhập.
 •	Nếu thông tin đăng nhập chính xác, hệ thống sẽ kiểm tra xem bạn là customer hay admin để cung cấp chức năng mà actor đó được sử dụng.
 •	Nếu tôi nhập sai thông tin đăng nhập, hệ thống sẽ hiển thị thông báo lỗi và yêu cầu tôi thử lại.
