@@ -1,6 +1,6 @@
 # module-login-logout phân quyền đối với admin và user
 Thành viên: Nhóm 11
-- Hoàng Thị Kim Phụng
+- Hoàng Thị Kim Phụng 
 - Lê Thị Mỹ Linh
 - Nguyễn Thị Như Quỳnh
 - Nguyễn Thị Cẩm Ly
@@ -20,4 +20,5 @@ Thành viên: Nhóm 11
 - Trang admin
   ![image](https://github.com/user-attachments/assets/d9026cd2-89e3-4e6b-a872-9cdcf0ce0f1b)
 
-#Giao diện trang đăng nhập đối với user 
+#Giao diện trang đăng nhập thành công đối với user 
+  ![image](https://github.com/user-attachments/assets/abe46c05-3f66-4585-8a67-861bb8013265)
